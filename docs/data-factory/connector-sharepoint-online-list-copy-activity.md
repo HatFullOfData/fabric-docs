@@ -82,7 +82,7 @@ The following properties are **required**:
 
     :::image type="content" source="./media/connector-sharepoint-online-list/list-name.png" lightbox="./media/connector-sharepoint-online-list/list-name.png" alt-text="Screenshot showing list name." :::
 
-  - **Query**: The OData query to filter the data in SharePoint Online list. For example, `"$top=1"`.
+  - **Query**: The OData query to filter the data in SharePoint Online list. For example, `$top=1`.
 
     :::image type="content" source="./media/connector-sharepoint-online-list/query.png" lightbox="./media/connector-sharepoint-online-list/query.png" alt-text="Screenshot showing query.":::
 
